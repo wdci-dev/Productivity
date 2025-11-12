@@ -9,6 +9,7 @@
 // @match        https://*.builder.salesforce-experience.com/*
 // @match        https://*.my.salesforce-setup.com/*
 // @exclude      https://wdci.*
+// @exclude      https://rio-edu-tso.*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
